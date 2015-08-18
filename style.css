@@ -1,7 +1,7 @@
 .video-container {
 	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
+	padding-bottom:0%;
+	padding-top:0px;
 	height:0;
 	overflow:hidden;
 }
@@ -14,7 +14,12 @@
 	height:100%;
 }
 
+
 .body {
+	margin-top: 0px;"
+	margin-left: 0px;"
+	margin-right: 0px;"
+	margin-bottom: 0px;"
 	font-family: 'Lucida Grande', 'Helvetica Neue', sans-serif;
 	font-size: 12px;
 	background: #fff;
