@@ -30,7 +30,7 @@
 .button {
 	color: #fff;
 	text-decoration: none;
-	margin-right: 10px;
+	margin-right: 40px;
 	
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -51,11 +51,11 @@
 .tag {
 	color: #fff;
 	text-decoration: none;
-	margin-right: 10px;
+	margin-right: 40px;
 	
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
 	
 	-webkit-box-shadow: 0 -1px 0px rgba(255,255,255,0.1) inset;
 	-moz-box-shadow: 0 -1px 0px rgba(255,255,255,0.1) inset;
